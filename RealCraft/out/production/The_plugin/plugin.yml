@@ -1,0 +1,5 @@
+name: The_plugin
+version: 1.0
+author: Knowscratcher
+main: com.ks.realcraft.Realcraft
+api-version: 1.14
