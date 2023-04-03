@@ -14,13 +14,23 @@
 ![鈍口螈](https://upload.cc/i1/2023/04/03/Vic8x6.png)  
 ### 烈焰使者生怪蛋 blaze spawn egg
 ![烈焰使者](https://upload.cc/i1/2023/04/03/UD50Z2.png)  
+### 鱈魚桶 cod bucket
+![鱈魚](https://upload.cc/i1/2023/04/03/iBMqn0.png)  
 ### 壓縮金蘋果、附魔金蘋果 compressed golden apple, enchanted golden apple
 (3金蘋果->壓縮金蘋果)  
 **注意:不要吃或用他合成附魔金蘋果以外的物品**  
 ![金蘋果](https://upload.cc/i1/2023/04/03/Yydt4T.png)  
+### 河豚桶 pufferfish bucket
+![河豚](https://upload.cc/i1/2023/04/03/o5FUIj.png)
+### 鮭魚桶 salmon bucket
+![鮭魚](https://upload.cc/i1/2023/04/03/YP2sgj.png)
 ### 石頭桶 stone bucket
 **注意:僅用於熔煉，不要用於合成!**  
-![石頭桶](https://upload.cc/i1/2023/04/03/u78pH9.png)
+![石頭桶](https://upload.cc/i1/2023/04/03/u78pH9.png)  
+### 蝌蚪桶 tadpole bucket
+![蝌蚪](https://upload.cc/i1/2023/04/03/4T6Zbo.png)
+### 熱帶魚桶 tropical fish bucket
+![熱帶魚](https://upload.cc/i1/2023/04/03/7tXUV1.png)
 
 ## 熔煉表(熔爐)
 ### 經驗瓶 experience bottle
