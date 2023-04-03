@@ -31,6 +31,9 @@ public class Craft {
         Enchanted_two_apple(); //1.0.0_pre-alpha_2 -> changed 1.0.0_pre-alpha_3 = sl*
         Experience_bottle(); //1.0.0_pre-alpha_2
         Lava_stone_bucket(); //1.0.0_pre-alpha_3 = sl
+        Salmon_bucket(); //1.0.0_pre-alpha_3 = sl
+        Tadpole_bucket(); //1.0.0_pre-alpha_3 = sl
+        Tropical_fish_bucket(); //1.0.0_pre-alpha_3 = sl
         Pufferfish_bucket(); //1.0.0_pre-alpha_3 = sl
 
     }
@@ -105,6 +108,27 @@ public class Craft {
         BlastingRecipe lava_failed_rec = new BlastingRecipe(NamespacedKey.minecraft("lava_failed"), failed_lava,
                 new RecipeChoice.ExactChoice(stone_bucket), 1.0f, 10*20);
         Bukkit.addRecipe(lava_failed_rec);
+    }
+
+    public static void Salmon_bucket() {
+        ShapelessRecipe salmon_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("salmon_bucket"), new ItemStack(Material.SALMON_BUCKET));
+        salmon_bucket_rec.addIngredient(Material.SALMON_SPAWN_EGG);
+        salmon_bucket_rec.addIngredient(Material.BUCKET);
+        Bukkit.addRecipe(salmon_bucket_rec);
+    }
+
+    public static void Tadpole_bucket() {
+        ShapelessRecipe tadpole_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("tadpole_bucket"), new ItemStack(Material.TADPOLE_BUCKET));
+        tadpole_bucket_rec.addIngredient(Material.TADPOLE_SPAWN_EGG);
+        tadpole_bucket_rec.addIngredient(Material.BUCKET);
+        Bukkit.addRecipe(tadpole_bucket_rec);
+    }
+
+    public static void Tropical_fish_bucket() {
+        ShapelessRecipe tropical_fish_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("tropical_fish_bucket"), new ItemStack(Material.TROPICAL_FISH_BUCKET));
+        tropical_fish_bucket_rec.addIngredient(Material.TROPICAL_FISH_SPAWN_EGG);
+        tropical_fish_bucket_rec.addIngredient(Material.BUCKET);
+        Bukkit.addRecipe(tropical_fish_bucket_rec);
     }
 
     public static void Pufferfish_bucket() {
