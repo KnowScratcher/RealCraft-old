@@ -41,7 +41,7 @@ public class Craft {
     public static void Axolotl_bucket() {
         ShapelessRecipe axolotl_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("axolotl_bucket"), new ItemStack(Material.AXOLOTL_BUCKET));
         axolotl_bucket_rec.addIngredient(Material.AXOLOTL_SPAWN_EGG);
-        axolotl_bucket_rec.addIngredient(Material.BUCKET);
+        axolotl_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(axolotl_bucket_rec);
     }
 
@@ -56,7 +56,7 @@ public class Craft {
     public static void Cod_bucket() {
         ShapelessRecipe cod_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("cod_bucket"), new ItemStack(Material.COD_BUCKET));
         cod_bucket_rec.addIngredient(Material.COD_SPAWN_EGG);
-        cod_bucket_rec.addIngredient(Material.BUCKET);
+        cod_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(cod_bucket_rec);
     }
 
@@ -113,28 +113,28 @@ public class Craft {
     public static void Salmon_bucket() {
         ShapelessRecipe salmon_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("salmon_bucket"), new ItemStack(Material.SALMON_BUCKET));
         salmon_bucket_rec.addIngredient(Material.SALMON_SPAWN_EGG);
-        salmon_bucket_rec.addIngredient(Material.BUCKET);
+        salmon_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(salmon_bucket_rec);
     }
 
     public static void Tadpole_bucket() {
         ShapelessRecipe tadpole_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("tadpole_bucket"), new ItemStack(Material.TADPOLE_BUCKET));
         tadpole_bucket_rec.addIngredient(Material.TADPOLE_SPAWN_EGG);
-        tadpole_bucket_rec.addIngredient(Material.BUCKET);
+        tadpole_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(tadpole_bucket_rec);
     }
 
     public static void Tropical_fish_bucket() {
         ShapelessRecipe tropical_fish_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("tropical_fish_bucket"), new ItemStack(Material.TROPICAL_FISH_BUCKET));
         tropical_fish_bucket_rec.addIngredient(Material.TROPICAL_FISH_SPAWN_EGG);
-        tropical_fish_bucket_rec.addIngredient(Material.BUCKET);
+        tropical_fish_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(tropical_fish_bucket_rec);
     }
 
     public static void Pufferfish_bucket() {
         ShapelessRecipe pufferfish_bucket_rec = new ShapelessRecipe(NamespacedKey.minecraft("pufferfish_bucket"), new ItemStack(Material.PUFFERFISH_BUCKET));
         pufferfish_bucket_rec.addIngredient(Material.PUFFERFISH_SPAWN_EGG);
-        pufferfish_bucket_rec.addIngredient(Material.BUCKET);
+        pufferfish_bucket_rec.addIngredient(Material.WATER_BUCKET);
         Bukkit.addRecipe(pufferfish_bucket_rec);
     }
 
