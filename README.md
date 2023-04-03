@@ -29,7 +29,7 @@
 ![熔岩桶](https://upload.cc/i1/2023/04/03/Zqac3L.png)  
 
 ## 熔煉表(高爐)
-### 廢鐵 scrap iron (由[石頭桶](.#石頭桶-stone-bucket)煉製)
+### 廢鐵 scrap iron (由[石頭桶](https://github.com/KnowScratcher/RealCraft#%E7%9F%B3%E9%A0%AD%E6%A1%B6-stone-bucket)煉製)
 ![廢鐵](https://upload.cc/i1/2023/04/03/FxfhXe.png)  
 
 ## 熔煉表(煙燻爐)
