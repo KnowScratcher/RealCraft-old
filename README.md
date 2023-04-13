@@ -35,7 +35,7 @@
 ## 熔煉表(熔爐)
 ### 經驗瓶 experience bottle
 ![經驗瓶](https://upload.cc/i1/2023/04/03/dOchwS.png "熔爐配方")  
-### 熔岩桶 lava bucket
+### 熔岩桶 lava bucket (由[石頭桶](https://github.com/KnowScratcher/RealCraft#%E7%9F%B3%E9%A0%AD%E6%A1%B6-stone-bucket)煉製)
 ![熔岩桶](https://upload.cc/i1/2023/04/03/Zqac3L.png "熔爐配方")  
 
 ## 熔煉表(高爐)
